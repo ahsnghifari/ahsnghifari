@@ -18,3 +18,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsnghifari&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 45%;">
 </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsnghifari&theme=cobalt&hide_border=false" alt="GitHub Streak" style="width: 100%;">
+    <img src="https://raw.githubusercontent.com/ahsnghifari/ahsnghifari/output/snake.svg" alt="Snake animation" />
